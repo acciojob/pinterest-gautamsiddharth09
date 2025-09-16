@@ -1,1 +1,58 @@
 /*  your css code here. If applicable */
+.hero{
+   display:flex;
+	justify-content:space-between;
+
+}
+
+#first{
+	display:inline-block;
+	width:300px;
+	height:200px;
+	
+}
+
+#second{
+	display:inline-block;
+	width:300px;
+	height:200px;
+	
+	
+}
+
+
+
+h4{
+	text-align:center;
+	padding-top:50px;
+}
+p{
+	text-align:center;
+}
+#btn{
+	background-color:red;
+	color:white;
+	border:none;
+	border-radius:4px;
+	margin-left:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
